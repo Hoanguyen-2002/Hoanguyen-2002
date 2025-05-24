@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [LG CNS](Software Developer)
 
-- 🌱 I’m currently learning **REACT , Vue.JS , Microservices, CLoud**
+- 🌱 I’m currently learning **REACT , Vue.JS , Microservices, Cloud**
 
-- 💬 Ask me about **REACT, Vue.JS , java, .NET**
+- 💬 Ask me about **REACT, Vue.JS , Java, .NET**
 
 - 📫 How to reach me **viethoah928@gmail.com**
 
