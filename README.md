@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Viet Hoa</h1>
-<h3 align="center">A Fresher Back-End Developer</h3>
+<h3 align="center">A Back-End Developer</h3>
 
 - 🔭 I’m currently working on [LG CNS](Software Developer)
 
