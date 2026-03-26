@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nguyen Viet Hoa</h1>
 <h3 align="center">A Back-End Developer</h3>
 
-- 🔭 I’m currently working on [LG CNS](Software Developer)
+- 🔭 I’m currently working as a Back-End Engineer for a Fintech company
 
-- 🌱 I’m currently learning **REACT , Vue.JS , Microservices, Cloud**
+- 🌱 I’m currently learning **System Design , Microservices, Cloud**
 
-- 💬 Ask me about **REACT, Vue.JS , Java, .NET**
+- 💬 Ask me about **Back-End, Front-End, Cloud, DevOps, AI/ML**
 
 - 📫 How to reach me **viethoah928@gmail.com**
 
