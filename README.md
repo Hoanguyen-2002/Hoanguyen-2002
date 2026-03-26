@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working as a Back-End Engineer for a Fintech company
 
-- 🌱 I’m currently learning **System Design , Microservices, Cloud**
+- 🌱 I’m currently learning **System Design, Microservices, Cloud, Database tuning**
 
-- 💬 Ask me about **Back-End, Front-End, Cloud, DevOps, AI/ML**
+- 💬 Ask me about **Back-End, Front-End, Cloud, DevOps, AI/ML, Big Data**
 
 - 📫 How to reach me **viethoah928@gmail.com**
 
